@@ -13,7 +13,7 @@ Subscribe to any wallet and stream what it does as it happens.
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 * Zero polling: live gRPC stream
 * Tracks multiple wallets concurrently
@@ -21,14 +21,14 @@ Subscribe to any wallet and stream what it does as it happens.
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 * Node.js 18+
 * A Yellowstone gRPC endpoint (e.g. Triton One / RPC Pool, QuickNode, Helius, eRPC, or self-hosted)
 
 ---
 
-## 🚀 Steps to Clone & Run
+## Steps to Clone & Run
 
 ```bash
 # 1) Clone
