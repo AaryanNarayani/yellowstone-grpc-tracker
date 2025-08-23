@@ -42,7 +42,15 @@ npm install
 cp .env.example .env
 # edit .env with your endpoint + rpc url
 
-# 4) Start the tracker (Node)
+# 4) Add addresses to track (index.ts)
+const trackedAccounts: string[] = [
+  "address_1_publickey",
+  "address_2_publickey",
+  "address_3_publickey",
+  ...
+];
+
+# 5) Start the tracker (Node)
 npm run dev
 ```
 
