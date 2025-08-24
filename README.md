@@ -1,4 +1,8 @@
 # Yellowstone gRPC Solana Indexer/Tracker
+[![Star this repo](https://img.shields.io/badge/⭐_Star-This_repo-lightgrey?style=flat)](https://github.com/AaryanNarayani/yellowstone-grpc-tracker)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)](https://solana.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 Real-time wallet activity tracking on Solana, powered by **Yellowstone gRPC**.
 Subscribe to any wallet and stream what it does as it happens.
@@ -20,6 +24,11 @@ Subscribe to any wallet and stream what it does as it happens.
 * Pluggable “classifier” so you can improve decoding over time
 
 ---
+
+## Preview
+<img width="720" height="520" alt="Wallet-Tracker-Preview" src="https://pub-15fcb55ecf4f42e689cf4e7e1a4737ad.r2.dev/tracker_preview.jpeg" />
+
+
 
 ## Requirements
 
@@ -68,3 +77,7 @@ RPC_URL=<get one from alchemy or similar rpc providers>
 PRs welcome! Please open an issue.
 
 ---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.

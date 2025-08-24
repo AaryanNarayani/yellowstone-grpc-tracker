@@ -7,6 +7,7 @@ const trackedAccounts:string[] = [
   "9Ewf68xkFF93cx67owmEt6Fr7SEyqU972ZKyGh3gfZnE",
   "BbwF4wSwmxMVp7xubA7qigCUU6RMcvK2soMu8VrDHjDH",
   "AUQEE2GnSEoGnyFDbukwRoaDRPpK6S5ze8vf1Xh7NAi4",
+  "DYAn4XpAkN5mhiXkRB7dGq4Jadnx6XYgu8L5b3WGhbrt"
 ];
 
 /*  [
