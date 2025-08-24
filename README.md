@@ -3,7 +3,7 @@
 Real-time wallet activity tracking on Solana, powered by **Yellowstone gRPC**.
 Subscribe to any wallet and stream what it does as it happens.
 
-### Actions it performs:
+### Actions it tracks:
 
 * **System Program Actions** (SOL transfers, account creations, etc.)
 * **SPL Token Program Activity** (token transfers/mints/burns)
