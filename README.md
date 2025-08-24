@@ -26,7 +26,7 @@ Subscribe to any wallet and stream what it does as it happens.
 ---
 
 ## Preview
-<img width="720" height="520" alt="Wallet-Tracker-Preview" src="https://pub-15fcb55ecf4f42e689cf4e7e1a4737ad.r2.dev/tracker_preview.jpeg" />
+<img width="680" height="520" alt="Wallet-Tracker-Preview" src="https://pub-15fcb55ecf4f42e689cf4e7e1a4737ad.r2.dev/tracker_preview.jpeg" />
 
 
 
@@ -78,3 +78,6 @@ PRs welcome! Please open an issue.
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
